@@ -1,2 +1,2 @@
 # ExpoSWII
-Pequno proyecto para Ingeniería de Software II
+Pequeno proyecto para Ingeniería de Software II
